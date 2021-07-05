@@ -89,6 +89,10 @@ img {
   margin: 1em 0em;
   color: #0000009e;
 }
+.about_Right p span {
+  color: #058ff7;
+  font-weight: 600;
+}
 
 /* Recipie Section */
 
